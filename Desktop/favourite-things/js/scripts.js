@@ -9,11 +9,6 @@ $(document).ready(function(){
         $(".text2").append(sports)
         $(".text3").append(location);
 
-
-
-
-
-
 event.preventDefault();
     });
 });
